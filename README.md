@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-include_all_commits
+&include_all_commits=true
