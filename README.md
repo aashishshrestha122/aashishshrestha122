@@ -1,5 +1,10 @@
 ### Hi there 👋
+<p>
+ I am a Software Engineer with a rich background in crafting dynamic web applications. My technical expertise spans a versatile tech stack that includes React JS, Node.js, PHP, and JavaScript. Alongside these, I have honed a solid command over Python, laying a strong foundation that fuels my venture into the intricacies of data analytics.
 
+My strengths are multifaceted, lying not only in my technical aptitude but also in my robust problem-solving and analytical skills. With a commitment to lifelong learning, I constantly immerse myself in emerging technologies, broadening my skill set and staying at the forefront of industry innovations.
+
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
