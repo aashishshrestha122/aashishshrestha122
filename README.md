@@ -49,6 +49,4 @@
     bg_color=#808080/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishshrestha122&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="aashish-streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aashishshrestha122&theme=radical&border_radius=10" alt="GitHub Streak" /></a>
