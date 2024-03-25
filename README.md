@@ -46,12 +46,16 @@ My strengths are multifaceted, lying not only in my technical aptitude but also 
   </a> 
 </p>
 
+ <p>
+   <img align=""
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishshrestha122&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+     alt="aashish-languages-used" 
+     bg_color=#808080/>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aashishshrestha122&theme=radical&border_radius=10" alt="GitHub Streak"/>
+   </a>
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishshrestha122&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="aashish-languages-used" 
-    bg_color=#808080/>
-</p>
+ </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aashishshrestha122&theme=radical&border_radius=10" alt="GitHub Streak" /></a>
+  
