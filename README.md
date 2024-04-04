@@ -58,4 +58,6 @@ My strengths are multifaceted, lying not only in my technical aptitude but also 
 
  </p>
 
+ For a quick response, DM me on LinkedIn.
+
   
