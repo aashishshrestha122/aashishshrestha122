@@ -60,6 +60,6 @@ My strengths are multifaceted, lying not only in my technical aptitude but also 
 
  For a quick response, DM me on <a href="https://www.linkedin.com/in/aashishshrestha12/">LinkedIn</a>.
 
-  ![](https://komarev.com/ghpvc/?username=aashishshrestha122&style=flat-square)
+  <!-- ![](https://komarev.com/ghpvc/?username=aashishshrestha122&style=flat-square) -->
 
   ![](./profile-3d-contrib/profile-night-green.svg)
