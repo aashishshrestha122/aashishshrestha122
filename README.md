@@ -46,7 +46,7 @@ My strengths are multifaceted, lying not only in my technical aptitude but also 
   </a> 
 </p>
 
- <p>
+ <!-- <p>
    <img align=""
      src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishshrestha122&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
      alt="aashish-languages-used" 
@@ -56,8 +56,10 @@ My strengths are multifaceted, lying not only in my technical aptitude but also 
     <img src="https://github-readme-streak-stats.herokuapp.com?user=aashishshrestha122&theme=radical&border_radius=10" alt="GitHub Streak"/>
    </a>
 
- </p>
+ </p> -->
 
  For a quick response, DM me on <a href="https://www.linkedin.com/in/aashishshrestha12/">LinkedIn</a>.
 
   ![](https://komarev.com/ghpvc/?username=aashishshrestha122&style=flat-square)
+
+  ![](./profile-3d-contrib/profile-night-green.svg)
