@@ -59,6 +59,7 @@ My strengths are multifaceted, lying not only in my technical aptitude but also 
  </p> -->
 
  For a quick response, DM me on <a href="https://www.linkedin.com/in/aashishshrestha12/">LinkedIn</a>.
+![Snake animation](https://github.com/aashishshrestha122/aashishshrestha122/blob/output/github-contribution-grid-snake.svg)
 
   <!-- ![](https://komarev.com/ghpvc/?username=aashishshrestha122&style=flat-square) -->
 
