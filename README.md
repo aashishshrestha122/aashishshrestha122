@@ -62,4 +62,10 @@ My strengths are multifaceted, lying not only in my technical aptitude but also 
 
   <!-- ![](https://komarev.com/ghpvc/?username=aashishshrestha122&style=flat-square) -->
 
-  ![](./profile-3d-contrib/profile-night-green.svg)
+ <!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
